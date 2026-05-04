@@ -29,6 +29,7 @@ def count_occurrences(items, target):
             count += 1
     return count
 def is_palindrome(text):
+    """ Returns TRUE if text is a palindrome , ignoring spaces and case."""
     new_text = ""
     for ch in text.lower():
         if ch == " ":
@@ -36,6 +37,7 @@ def is_palindrome(text):
         new_text += ch
     return new_text == new_text[::-1]
 def create_report(title, scores):
+    """Creates a simple report for a list of scores."""
     return f"------{title}------\nAverage: {calculate_average(scores):.2f}\nMaximum, Minimum values: {find_max_and_min(scores)}"
 
 
