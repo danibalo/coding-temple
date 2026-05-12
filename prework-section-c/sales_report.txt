@@ -1,0 +1,12 @@
+Sales Report
+=============================================
+Total Revenue: 1749.32
+= = = Revenue per product = = =
+Widget A total revenue is: 779.61
+Widget B total revenue is: 719.76
+Widget C total revenue is: 249.95
+= = = Quantity per product = = =
+A total of 39 Widget A is sold
+A total of 24 Widget B is sold
+A total of 5 Widget C is sold
+highest day is 2026-01-17 with revenue of 579.8
