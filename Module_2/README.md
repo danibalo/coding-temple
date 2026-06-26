@@ -1,4 +1,4 @@
-#**Advanced Python & Data Handling**
+**Advanced Python & Data Handling**
  ## Practice Exercise
   ### Part 1 - Classify functions
         - for each function determines its Big O time complexity and explain your reasoning in one sentence.
