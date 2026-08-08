@@ -18,4 +18,4 @@
 -Calculate the total value of all in-stock products (reduce or sum with comprehension)
 -Group products by category, return a dictionary like {"electronics": [...], "books": [...], ...}
 
-***Do not use for loops with append. Use comprehensions or functional tools only. Do not modify the original products list.***
+***Not used for loops with append. Used comprehensions or functional tools only. The original products list not modified.***
