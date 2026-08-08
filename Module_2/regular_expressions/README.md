@@ -1,5 +1,5 @@
-#Practice Problem
-##The Data Cleaner
+# Practice Problem
+## The Data Cleaner
 - The data:
 ***records = [
     "Name: Alice Johnson | Email: alice.j@gmail.com | Phone: (555) 123-4567 | Joined: 01/15/2023",
@@ -11,10 +11,10 @@
 
 ***Write Python functions using re to:***
 
--extract_names(records) - Return a list of names
--extract_emails(records) - Return a list of email addresses
--normalize_phones(records) - Return all phone numbers in XXX-XXX-XXXX format
--extract_dates(records) - Return all dates, regardless of format
+-extract_names(records) and Return a list of names
+-extract_emails(records) and Return a list of email addresses
+-normalize_phones(records) and Return all phone numbers in XXX-XXX-XXXX format
+-extract_dates(records) and Return all dates, regardless of format
 -Bonus: Write a function that parses each record into a dictionary: {"name": ..., "email": ..., "phone": ..., "joined": ...}
 
 
